@@ -1,0 +1,8 @@
+{
+  "name": "Installer - github binary",
+  "description": "A barebones github binaries installer",
+  "repository": "https://github.com/jmcarbo/installer",
+  "logo": "https://github.com/ashleymcnamara/gophers/blob/master/GO_BUILD.png",
+  "keywords": ["installer", "github", "golang"]
+}
+
