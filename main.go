@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/jpillora/installer/handler"
+	"installer/handler"
 	"github.com/jpillora/opts"
 )
 
