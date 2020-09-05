@@ -46,7 +46,7 @@ type Handler struct {
 
 func (h *Handler) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 	if r.URL.Path == "/" {
-		http.Redirect(w, r, "https://github.com/jpillora/installer", http.StatusMovedPermanently)
+		http.Redirect(w, r, "https://github.com/jmcarbo/installer", http.StatusMovedPermanently)
 		return
 	}
 	//calculate reponse type

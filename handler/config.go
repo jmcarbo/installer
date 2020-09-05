@@ -8,5 +8,5 @@ type Config struct {
 
 var DefaultConfig = Config{
 	Port: 3000,
-	User: "jpillora",
+	User: "jmcarbo",
 }
